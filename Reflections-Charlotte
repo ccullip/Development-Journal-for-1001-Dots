@@ -1,0 +1,26 @@
+In your own words, briefly describe your project in a paragraph. 
+
+When students are first learning to code at an elementary school level, they typically begin on block-based coding languages such as 
+Scratch. The transition to actual typing-based programming is rocky, as kids don't usually have the typing skills or error-checking 
+patience that high school students and up have. 9 Dots is contracting our group to modify the online Monaco editor to transition students
+from block-based editors to text-based editors. Using features such as read-only functions and customized error messages, we aim to design
+a working website for students to practice typing in a Javascript editor while still enjoying the assistance from blocks and unbreakable
+code.
+
+
+Think back to the first week of class, before your community partner meeting. What did you think your project was going to be? 
+How has meeting with the community partner changed your understanding of the project (if it did)? 
+
+I thought the project would be more concretely designed that it is now, and that the project was more focused on kid-computer interaction
+than straight Javascript programming. Our community partner had the idea of this website to transition kids from blocks to text, but the 
+actual implementation is very confusing. I wasn't sure if the project was going to be on a website or a program, and it was clarified 
+during our meeting to be a website and to include certain features such as customized error messages and undeleteable parts of code along
+with parenthesis and brace pairing.
+
+How do you feel about the project so far? Hopes, fears, concerns? Thoughts on how things might proceed? 
+
+I feel a little overwhelmed by the project. I have a few tabs open where I spend an hour or so a day looking through and trying to make
+some headway but I'm confused by the overall implementation. I think the background in "Javascript templating" needs to be learned and I
+also need to learn how to use Github to actually work on the editor. (I downloaded what I think is the editor code from Microsoft's 
+Github page, but I'm not sure how to actually run/work it.) I hope that after this rather large learning curve, everything will be a least
+a little more clear, and I will understand how to edit/use the functions provided by Monaco.
