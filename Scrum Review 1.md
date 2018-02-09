@@ -1,17 +1,17 @@
 What we were planning to do:
-<ul>
-<li>we were planning to do the design sprint where we make a minimum viable product
-<li>Get code working on all computers
-<li>Design the basic layout of the website
-<li>learn basic JavaScript
-<li>Creating user stories
-
+  - we were planning to do the design sprint where we make a minimum viable product
+  - Get code working on all computers
+  - Design the basic layout of the website
+  - learn basic JavaScript
+  - Creating user stories
+  
+  
 What we have done:
-<ul>
-<li>creating viable product (we got the code running locally on some of our computers)
+  - creating viable product (we got the code running locally on some of our computers)
+
+
 
 What we could’ve done better:
-<ul>
-<li>Set smaller, more realistic goals; focus more on the editor and design
-<li>Estimate the time needed for each specific goal
-<li>Communicate within group better (assign tasks to each group member & have due dates set)
+ - Set smaller, more realistic goals; focus more on the editor and design
+ - Estimate the time needed for each specific goal
+ - Communicate within group better (assign tasks to each group member & have due dates set)
