@@ -22,7 +22,7 @@
 
 ### User Story #5
  
- 
+ Julianna Smith is a coding instructor for 9 Dots. She wishes to be able to edit the functions to make fewer functions for her students to fit a specific coding project. She doesn't want to mess up the code and wants to be able to quickly and easily make changes.
  
  
  
