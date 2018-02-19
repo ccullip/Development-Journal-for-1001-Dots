@@ -1,5 +1,5 @@
 # Development-Journal-for-1001-Dots
-Development journal for the Computer Science practicum peoject with 9 dots
+Development journal for the Computer Science practicum project with 9 dots
 
 Meeting time: Tuesday and Thursdays 9:30AM
 Scrum meeting - what is accomplished, what will be accomplished by next meeting, blockers (what is stopping you from doing what you need to do)
