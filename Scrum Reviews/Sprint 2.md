@@ -16,3 +16,8 @@
 * better communication
 * more development of user stories
 * documentation
+
+### What was not done, and why?
+* user stories, just because.
+* make if statement uneditable, have to understand parser and ast first.
+* coloring parts of code, would probably need parser as well.
