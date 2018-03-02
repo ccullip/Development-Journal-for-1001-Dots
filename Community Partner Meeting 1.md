@@ -15,6 +15,7 @@
 * Should we use Recast or Esprima/Escodegen? (Escodegen seems to only allow reformatting? Ruins comments and whitespace)
 * Does Josh agree with the top priorities for read-only?
 * Most important part to focus on right now is to figure out the parser?
+* "Clean up code" button that uses esprima/escodegen or recast?
 
 ## Notes from Josh 
 
