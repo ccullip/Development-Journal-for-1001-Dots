@@ -16,6 +16,8 @@
 * Does Josh agree with the top priorities for read-only?
 * Most important part to focus on right now is to figure out the parser?
 * "Clean up code" button that uses esprima/escodegen or recast?
+* Any quick changes to design?
+* How should backspace work? Backspace button? Highlight whole block? Click at beginning of block?
 
 ## Notes from Josh 
 
