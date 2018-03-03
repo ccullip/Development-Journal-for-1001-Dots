@@ -21,3 +21,18 @@
 
 ## Notes from Josh 
 
+* Definitely Key Word and Brackets+Parenthesis, Must be paired together cannot delete parenthesis separately.
+* Delete Whole Block (Using Brackets).
+* leave behind conditionals.
+* Highlight Feature --> backspace once, highlight the block, then delete whole block.
+* Undo is not priority, but inserting is more important, or an autocomplete.
+   -> type half of a snippit and then show a list of blocks available.
+* limit the autocomplete, like lock behind some functions behind autocomplete.
+* Auto indentation, helps students make better more read-able code: auto-formatting.
+* Automatic formating after enter. Probably a button so students can see the difference.
+* Put our code together in a single/mutliple file(s) --> parceljs. Control the files.
+* Visually connect the blocks, so the students understand which block is what, and have different colors to show what text is not            editable.
+* Double press Delete/Backspace to confirm that the student wants to removed code.
+* The Parser should help identify the parts of the code that we would want to control.
+* Don't worry about toggle-able read-only. 
+* Block making process to be more streamline.
