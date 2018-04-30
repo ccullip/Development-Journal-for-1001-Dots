@@ -11,7 +11,7 @@ Our text editor is built for Typescript with the Monaco editor developed by Micr
  
  ## System Documentation
  
- ### Table of Contents
+ ### Project Files
  [index.html](#index)  
  [create-editor.js](#createeditor)  
  [globals.js](#globals)  
