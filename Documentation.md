@@ -67,6 +67,8 @@ Our text editor is built for Typescript with the Monaco editor developed by Micr
  [Editor Interface](#interface)  
  [Helper Functions](#helper)  
  
+ 
+ 
  <a name="adding"/>  
  
  #### Adding Blocks  
@@ -81,6 +83,8 @@ Our text editor is built for Typescript with the Monaco editor developed by Micr
  * Calls findPreviousSibling and findClosestParent
  * Adds the desired block to the AST
  * Returns string of editor text to buttonHandler  
+ 
+ 
  
  <a name="ast"/>  
  
@@ -102,6 +106,8 @@ Our text editor is built for Typescript with the Monaco editor developed by Micr
  * Returns true if cursor is at the end of a block  
  ##### *cursorAtStartOfBlock*  
  * Returns true if the cursor is at the start of a block  
+ 
+ 
  
  <a name="deleting"/>  
  
@@ -140,6 +146,8 @@ Our text editor is built for Typescript with the Monaco editor developed by Micr
  ##### *deleteChar*  
  * Manually deletes a character through string manipulation  
  
+ 
+ 
  <a name="interface"/>  
  
  #### Editor Interface  
@@ -164,6 +172,8 @@ Our text editor is built for Typescript with the Monaco editor developed by Micr
  * Unhighlights a block
  ##### *flash*  
  * Flashes the editor when invalid action occurs <i>(Example: Attempting to delete a parenthesis)</i>  
+ 
+ 
  
  <a name="helper"/>  
  
