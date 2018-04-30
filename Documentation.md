@@ -15,38 +15,53 @@ Our text editor is built for Typescript with the Monaco editor developed by Micr
  ### System Documentation
  
  #### Table of Contents
- [index.html](#index)
- [create-editor.js](#createeditor)
- [globals.js](#globals)
- [templates.js](#templates)
- [brick-editor.js](#editor)
+ [index.html](#index)  
+ [create-editor.js](#createeditor)  
+ [globals.js](#globals)  
+ [templates.js](#templates)  
+ [brick-editor.js](#editor)  
+ 
  
  <a name="index"/>
+ 
  #### index.html
- Loads templates.js, globals.js, bundle.js, brick-editor.js, loader.js, and create-editor.js.
- Calls addBlocksHTML function that populates editor with blocks from templates.js.
- Contains editor container, button container, and resetToParsed button in the body.
+ 
+ Loads templates.js, globals.js, bundle.js, brick-editor.js, loader.js, and create-editor.js.  
+ Calls addBlocksHTML function that populates editor with blocks from templates.js.  
+ Contains editor container, button container, and resetToParsed button in the body.  
+ 
  
  <a name="createeditor"/>
+ 
  #### create-editor.js
- Creates the editor, editor theme, and editor text.
- Adds commands to catch backspace and delete.
- Adds function to catch changing cursor selection.
- Creates autocomplete items from templates.
+ 
+ Creates the editor, editor theme, and editor text.  
+ Adds commands to catch backspace and delete.  
+ Adds function to catch changing cursor selection.  
+ Creates autocomplete items from templates.  
+
  
  <a name="globals"/>
- #### globals.js
- Contains global variables such as editor and editorState.
- EditorState is updated after any change.
  
+ #### globals.js
+
+ Contains global variables such as editor and editorState.  
+ EditorState is updated after any change.  
+
+
  <a name="templates"/>
+ 
  #### templates.js
- Dictionary containing the blocks that will be added to the button container.
- <u>Structure:</u>
- <b>"blockName"</b> : "IF" <i>(name to display on the button)</i>
- <b>"code"</b> : "if (i == true) {\n\t// do something \n}" <i>(code that will be inserted into the editor)</i>
+ 
+ Dictionary containing the blocks that will be added to the button container.  
+ <u>Structure:</u>  
+ <b>"blockName"</b> : "IF" <i>(name to display on the button)</i>  
+ <b>"code"</b> : "if (i == true) {\n\t// do something \n}" <i>(code that will be inserted into the editor)</i>  
  <b>"buttonColor"</b> : "#ff3399" <i>(color of block)</i>
  
+ 
  <a name="editor"/>
+ 
  #### brick-editor.js
+ 
  
